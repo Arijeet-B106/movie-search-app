@@ -7,7 +7,7 @@ A simple web app to search movies by **title** or **actor name** using the [OMDb
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
  
 
 
