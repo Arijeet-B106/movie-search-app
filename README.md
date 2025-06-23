@@ -5,7 +5,10 @@
 
 A simple web app to search movies by **title** or **actor name** using the [OMDb API](https://www.omdbapi.com/).
 
-Live Demo 👉 [Click Here](https://yourusername.github.io/movie-search-app/)  
+## 📸 Screenshot
+
+![App Screenshot](screenshot.png)
+ 
 
 
 ---
