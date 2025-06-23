@@ -13,7 +13,6 @@ Live Demo 👉 [Click Here](https://yourusername.github.io/movie-search-app/)
 ## 🚀 Features
 
 - 🔍 Search by **Movie Title** (shows full details: poster, plot, genre, rating)
-- 🎭 Search by **Actor Name** (shows list of movies related to the actor)
 - 🎨 Clean and responsive UI
 - 🌐 Uses [OMDb API](https://omdbapi.com/) to fetch real movie data
 
